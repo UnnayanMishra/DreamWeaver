@@ -1,3 +1,4 @@
 gradio
 diffusers
 torch
+transformer
